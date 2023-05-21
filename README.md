@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Banner-Github.png](https://i.postimg.cc/7P5Y5fmq/Banner-Github.png)](https://postimg.cc/QVrrPN2z)
+[![Github-Image.png](https://i.postimg.cc/Wzy7bhN9/Github-Image.png)](https://postimg.cc/sGpWTfZS)
 <!--
 **Katherinezam/Katherinezam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
