@@ -1,4 +1,4 @@
-### 👋Hola mundo! soy fronted developer💻
+# 👋Hola mundo! soy fronted developer💻
 
 [![Banner-Image-GH.png](https://i.postimg.cc/pLrvjcth/Banner-Image-GH.png)](https://postimg.cc/MvCg2DHq)
 <!--
