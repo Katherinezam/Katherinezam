@@ -1,5 +1,5 @@
 ### 👋Hola mundo! soy fronted developer💻
-[![Github-Image.png](https://i.postimg.cc/Wzy7bhN9/Github-Image.png)](https://postimg.cc/sGpWTfZS)
+[![Banner-Image-GH.png](https://i.postimg.cc/pLrvjcth/Banner-Image-GH.png)](https://postimg.cc/MvCg2DHq)
 <!--
 **Katherinezam/Katherinezam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
