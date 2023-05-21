@@ -1,5 +1,5 @@
-<h3>👋Hola mundo! soy fronted developer💻</h3>
-<img src="https://giphy.com/stickers/3ov9jNpzO2zSwdwkog" alt="GIPHY">
+###👋Hola mundo! soy fronted developer💻
+
 [![Banner-Image-GH.png](https://i.postimg.cc/pLrvjcth/Banner-Image-GH.png)](https://postimg.cc/MvCg2DHq)
 <!--
 **Katherinezam/Katherinezam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
