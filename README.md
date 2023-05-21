@@ -1,4 +1,4 @@
-### 👋Hola mundo! soy fronted developer💻<img src="[Enlace a GIPHY](https://giphy.com/stickers/3ov9jNpzO2zSwdwkog)" width="50">
+### 👋Hola mundo! soy fronted developer💻[Enlace a GIPHY](https://giphy.com/stickers/3ov9jNpzO2zSwdwkog)
 [![Banner-Image-GH.png](https://i.postimg.cc/pLrvjcth/Banner-Image-GH.png)](https://postimg.cc/MvCg2DHq)
 <!--
 **Katherinezam/Katherinezam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
